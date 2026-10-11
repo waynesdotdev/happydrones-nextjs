@@ -56,7 +56,7 @@ export default function Hero() {
           <Link className="btn btn-orange" href="/#quote">Get an instant quote</Link>
           <Link className="btn btn-ghost" href="/services/">Explore services</Link>
         </div>
-        <p className="hero-note">Prices in under a minute. No sign-up.</p>
+        {/*<p className="hero-note">Prices in under a minute. No sign-up.</p>*/}
       </div>
 
       <a className="scroll-cue" href="#who" aria-label="Scroll to services"><span></span></a>
